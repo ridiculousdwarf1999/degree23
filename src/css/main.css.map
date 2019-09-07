@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "ACAA,AAAA,CAAC,CAAC;EACA,UAAU,EAAE,UAAU;EACtB,OAAO,EAAE,IAAI;CAAG;;AAClB,AAAA,IAAI,CAAC;EACH,MAAM,EAAE,CAAC;CAAG",
+    "sources": [
+        "../../sass/main.sass",
+        "../../sass/_interface.sass"
+    ],
+    "names": [],
+    "file": "main.css"
+}
